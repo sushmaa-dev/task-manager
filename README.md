@@ -3,7 +3,7 @@
 A clean and minimal task management app built with React. Manage your daily tasks with an interface that remembers your tasks between sessions.
 
 ## 🔗 Live Demo
-Coming soon 
+https://the-task-board.netlify.app
 
 ## ✨ Features
 - ➕ Add, complete, and delete tasks with a clean minimal interface
@@ -24,7 +24,7 @@ Coming soon
 **Prerequisites**
 - Node.js
 
-1. Clone the repo `git clone <your-repo-url>`
+1. Clone the repo `git clone https://github.com/sushmaa-dev/task-manager.git`
 2. Install dependencies `npm install`
 3. Run the app `npm run dev`
 
